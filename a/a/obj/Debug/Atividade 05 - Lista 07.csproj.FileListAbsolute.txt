@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\bin\Debug\Atividade 05 - Lista 07.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\bin\Debug\Atividade 05 - Lista 07.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\bin\Debug\Atividade 05 - Lista 07.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\obj\Debug\Atividade 05 - Lista 07.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\obj\Debug\Atividade 05 - Lista 07.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Atividade 05 - Lista 07\Atividade 05 - Lista 07\obj\Debug\Atividade 05 - Lista 07.pdb
