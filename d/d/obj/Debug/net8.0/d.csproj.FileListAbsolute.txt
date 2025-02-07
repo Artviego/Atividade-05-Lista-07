@@ -1,0 +1,15 @@
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\bin\Debug\net8.0\d.exe
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\bin\Debug\net8.0\d.deps.json
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\bin\Debug\net8.0\d.runtimeconfig.json
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\bin\Debug\net8.0\d.dll
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\bin\Debug\net8.0\d.pdb
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.sourcelink.json
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.dll
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\refint\d.dll
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.pdb
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\d.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\Atividade05Lista07\d\d\obj\Debug\net8.0\ref\d.dll
