@@ -10,7 +10,7 @@ public class Program
         string input;
         int numero;
 
-        Console.WriteLine("Digite uma sequência de 4 números inteiros. ");
+        Console.WriteLine("Digite uma sequência de 5 números inteiros. ");
 
         while (i < 5)
         {
